@@ -1,0 +1,8 @@
+# this is an excercise in the use of GitHub
+i = 0
+# a simple loop to test the upload and download too the project
+while ( i < 20):
+    j = int(input("New Value for i: "))
+    i = j
+# now printout what I exited on
+print("The value of i on exit was: ", i)
